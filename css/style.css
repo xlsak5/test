@@ -89,7 +89,7 @@
 }
 .discount__left p {
   padding: 15px 0;
-  font-size: 18px;
+  font-size: 16px;
 }
 .discount__left a {
   display: block;
@@ -146,7 +146,9 @@
 #product .product__more {
   color: #979797;
 }
-#product h2 {}
+#product h2 {
+
+}
 #product p {
   position: relative;
   padding-left: 25px;
@@ -230,12 +232,15 @@
   margin-bottom: 25px;
   padding-left: 35px;
 }
-#product2 h2 {}
+#product2 h2 {
+  font-size: 30px;
+}
 #product2 p {
   position: relative;
   padding-left: 25px;
   color: #686868;
   font-weight: bold;
+  font-size: 16px;
 }
 #product2 p::before {
   content: "";
